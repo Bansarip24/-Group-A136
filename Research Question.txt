@@ -1,0 +1,18 @@
+Group: A136
+
+Dataset ID: DS143
+
+Dataset Name: Smartphone Models Dataset | Kaggle
+
+File name: smartphone_cleaned_v5.csv
+
+Independent Variable: brand_name (Nominal data)
+
+Dependent Variable: price (Interval/Measurement data)
+
+Research Question: "Is there a difference in the mean price of smartphones between Apple and Samsung?"
+
+Null Hypothesis: There is no difference in the mean price of smartphones between Apple and Samsung.
+
+Alternative Hypothesis: There is a difference in the mean price of smartphones between Apple and Samsung.
+
