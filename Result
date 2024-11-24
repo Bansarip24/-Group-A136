@@ -1,0 +1,9 @@
+Wilcoxon Test Result 
+
+Data: price by brand_name 
+
+W = 5335, p-value = 2.213e-14
+
+p-value is less than 0.05, so we can reject the null hypothesis and accept the alternative hypothesis that there is a statistically significant difference in the mean prices of Apple and Samsung smartphones
+
+This means that the prices for these two brands are not the same and likely have different distributions.
